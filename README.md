@@ -1,16 +1,10 @@
 # ten_twenty_movie
 
-A new Flutter project.
+Technical assaginment
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Demo video of app is - [Here](https://www.loom.com/share/33b3783c8fe142608bf46c2936de6eff)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+UI implemented design of app is - [Here](https://drive.google.com/drive/folders/1HPt5ljHO5PVHEYY9sPFxCNf5SIopFf2W?usp=sharing)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
